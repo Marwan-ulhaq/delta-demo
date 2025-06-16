@@ -1,2 +1,2 @@
 # delta-demo
-This is the demo of repository file 
+the demo of git & gitHub.
